@@ -1,0 +1,19 @@
+.blue-box {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+.white-box {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+}
+#counter {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+#car {
+  font-size: 100px;
+}
